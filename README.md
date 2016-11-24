@@ -166,6 +166,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Practice Swift](https://github.com/domenicosolazzo/practice-swift) - an interesting guide to learn Swift.
 * [Swift A Day](https://github.com/lindadong/swift-a-day) - Daily swift experiments by Linda Dong.
 * [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development.
+* [Swift Examples](https://github.com/carlosencoding) - Reusable apps code. Written in Swift.
 * [Swift Sandbox Newsletter](http://swiftsandbox.io) - Swift Sandbox is a weekly newsletter containing a collection of links to the best Swift **code** and **developer tools**. Every Friday. **Free**.
 * [Swift-Weekly](https://github.com/vandadnp/swift-weekly) - Weekly Swift Language Gems, Tips and Tricks.
 * [SwiftDoc](http://swiftdoc.org/) - Auto-generated documentation for Swift.
